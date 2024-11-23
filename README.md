@@ -2,6 +2,7 @@
 <h3 align="center">🌟Aspiring Full-Stack Web Developer</h3>
 
 - 🌱 I’m currently learning **Frontend**
+- Most of my repositories are **Private**
 
 - 📫 How to reach me **https://www.linkedin.com/in/john-carlo-pelayo-025528306/**
 
