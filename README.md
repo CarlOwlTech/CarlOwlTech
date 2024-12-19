@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm John Carlo</h1>
 <h3 align="center">🌟Aspiring Full-Stack Web Developer</h3>
 
-- 🌱 I am currently learning **Frontend Development**F and expanding my skills in web technologies. 
+- 🌱 I am currently learning **Frontend Development** and expanding my skills in web technologies. 
 - Most of my repositories are **Private**
 
 - 📫 How to reach me **https://www.linkedin.com/in/john-carlo-pelayo-025528306/**
