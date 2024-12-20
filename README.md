@@ -16,4 +16,17 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   </a> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=carlowltech&show_icons=true&locale=en" alt="carlowltech" /></p>
+## 🔥 Streak & Stats
+
+<div align="center">
+  <!-- GitHub Streak -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=CarlOwlTech&theme=vue-dark&border_radius=10&card_width=500" alt="GitHub Streak" />
+  </a>
+  <!-- GitHub Stats -->
+  <a href="https://github.com/CarlOwlTech">
+    <img src="https://github-readme-stats.vercel.app/api?username=CarlOwlTech&show_icons=true&theme=vue-dark&border_radius=10&card_width=500" alt="GitHub Stats" />
+  </a>
+</div>
+
+
