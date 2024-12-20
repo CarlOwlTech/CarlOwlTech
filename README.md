@@ -21,11 +21,12 @@
 <div align="center">
   <!-- GitHub Streak -->
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=CarlOwlTech&theme=vue-dark&border_radius=10&card_width=500" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-xi-liard.vercel.app?user=CarlOwlTech&theme=vue-dark&border_radius=10&card_width=400" alt="GitHub Streak" />
+      
   </a>
   <!-- GitHub Stats -->
   <a href="https://github.com/CarlOwlTech">
-    <img src="https://github-readme-stats.vercel.app/api?username=CarlOwlTech&show_icons=true&theme=vue-dark&border_radius=10&card_width=500" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=CarlOwlTech&show_icons=true&theme=vue-dark&border_radius=10&card_width=350" alt="GitHub Stats" />
   </a>
 </div>
 
